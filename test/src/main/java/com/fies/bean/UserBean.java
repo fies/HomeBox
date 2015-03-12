@@ -17,7 +17,7 @@ public class UserBean {
 
 	public String saveUser() {
 		userService.addUser(null);
-		return null;
+		return     null;
 	}
 
 	public IUserService getUserService() {
